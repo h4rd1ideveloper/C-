@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529012952 source:/ice/Downloads/code/C-/Pilhas/main.cpp
+	<iostream>
+	<stack>
+	<string>
+
